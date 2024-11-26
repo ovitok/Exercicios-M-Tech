@@ -1,0 +1,50 @@
+.imagem {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: left;
+
+}
+
+nav {
+    display: flex;
+    justify-content: right;
+
+}
+nav button {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(117, 253, 176);
+    border-radius: 10px;
+
+}
+
+body {
+    color: white;
+    background-image: url(./img/ccc.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aaa{
+    text-align: center;
+}
+.bbb{
+    align-items: center;
+    margin-left: 570px;
+}
+.bbb input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px; 
+    
+}
+.butao{
+    margin-top: 5px;
+    margin-left: 625px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(117, 253, 176);
+    border-radius: 10px;
+}
+

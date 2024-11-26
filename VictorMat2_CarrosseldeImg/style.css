@@ -1,0 +1,20 @@
+h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+ }
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(./img/boi.jpg) rgba(0, 0, 0, 0.514);
+    background-blend-mode: color;
+    background-size: cover;
+    color: white;
+    
+ }
+
+.carrossel-container { max-width: 600px; margin: auto; position: relative; }
+ .imagem { display: none; width: 200px; margin-left: 190px; border: 7px solid rgb(255, 166, 41);}
+ .ativo { display: block; }
+ .controles { text-align: center; margin-top: 10px; }
+ .botao { padding: 10px; cursor: pointer; background-color: #374bff; border: 2px solid orange; border-radius: 5px; margin: 8px; width: 100px; height: 50px; font-size: 17px; color: white; margin-right: 20px;}
+ .botao:hover { background-color: rgb(169, 172, 255); }

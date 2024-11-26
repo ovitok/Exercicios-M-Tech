@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.n{
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    border: 2px color purple;
+}
+
+img {
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+    
+}
+.letras{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 35px;
+        height: 35px;
+        font-size: 20px;
+        cursor: pointer;
+        margin: 3px;
+        background-color: rgb(140, 0, 142);
+        border: none;
+        color: #fff;
+        border-radius: 3px;
+}

@@ -1,0 +1,39 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    color: black;
+}
+h3 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+label {
+    margin: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+label input {
+    margin-left: 10px;
+    font-size: 25px;
+}
+button {
+    size: 100px;
+    margin-top: 10px;
+    margin-left: 600px;
+    font-size: 25px;
+}
+p {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+span {
+    margin-left: 5px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
